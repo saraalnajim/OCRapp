@@ -1,0 +1,12 @@
+paddle-bfloat==0.1.7
+paddleocr==2.5.0.3
+paddlepaddle==2.3.1
+pandas @ file:///C:/ci/pandas_1650373458095/work
+numpy==1.19.3
+opencv-contrib-python==4.4.0.46
+opencv-python==4.6.0.66
+opencv-python-headless==4.5.4.60
+Pillow==9.0.1
+streamlit==1.12.0
+matplotlib @ file:///C:/ci/matplotlib-suite_1647423638658/work
+matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
