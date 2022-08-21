@@ -1,0 +1,4 @@
+paddleocr==2.5.0.3
+paddlepaddle==2.3.1
+paddle-bfloat==0.1.7
+streamlit==1.12.0
